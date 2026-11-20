@@ -1,0 +1,6 @@
+{
+  "name": "DILANE MARKET",
+  "description": "Plateforme internationale de commerce électronique B2B et B2C — Le monde du commerce à portée de main. Achat, vente en gros et au détail, Import Chine et paiements Mobile Money.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
